@@ -159,14 +159,6 @@ php start.php connections
 ## License
 
 MIT
-##qq  1028604181
-## QQ交流群
 
-【601391162】
-
-**觉得项目对您有用，请我喝杯咖啡吧。您的支持将鼓励我继续创作！**
-
-![QQ截图20180904161534.jpg](https://upload-images.jianshu.io/upload_images/2825702-ae4567c3bf58fad4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/320)
-![QQ截图20180904161507.jpg](https://upload-images.jianshu.io/upload_images/2825702-ef48969aa5338754.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/320)
 
 
